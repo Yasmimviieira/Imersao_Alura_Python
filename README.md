@@ -10,7 +10,7 @@ A Imersão Alura - Python foi dividida 5 sessões:
 
 ![image](https://github.com/Yasmimviieira/Imersao_Alura_Python/assets/116042594/c96276bd-26b1-4439-9c24-090ab9b64d64)
 
- Para mais detalhes, verifique o arquivo [Imersão Python - Tabela de ações (Modificada)](https://github.com/Yasmimviieira/Imersao_Alura_Python/blob/main/Imers%C3%A3o%20Python%20-%20Tabela%20de%20a%C3%A7%C3%B5es%20(Modificada).xlsx)
+Para mais detalhes, verifique o arquivo [Imersão Python - Tabela de ações (Modificada)](https://github.com/Yasmimviieira/Imersao_Alura_Python/blob/main/Imers%C3%A3o%20Python%20-%20Tabela%20de%20a%C3%A7%C3%B5es%20(Modificada).xlsx)
     
   - Gráficos e Análise com Google Colab e Python Pandas
   - Manipulação de Dados e Criação de Gráficos com bibliotecas Python
